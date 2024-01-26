@@ -156,7 +156,8 @@ body .container main section .bot .left form .cont input {
 body .container main section .bot .left form .cont textarea {
   height: 120px;
 }
-body .container main section .bot .left form .cont input, body .container main section .bot .left form .cont textarea {
+body .container main section .bot .left form .cont input,
+body .container main section .bot .left form .cont textarea {
   width: 100%;
   resize: none;
   border: 1px solid #5A5959;
